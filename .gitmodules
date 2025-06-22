@@ -1,0 +1,3 @@
+[submodule "msg-extractor"]
+	path = msg-extractor
+	url = https://github.com/TeamMsgExtractor/msg-extractor.git
